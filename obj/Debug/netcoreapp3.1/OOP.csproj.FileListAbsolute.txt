@@ -10,3 +10,4 @@ C:\Users\MOHSEN\source\repos\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
 C:\Users\MOHSEN\source\repos\OOP\obj\Debug\netcoreapp3.1\OOP.dll
 C:\Users\MOHSEN\source\repos\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
 C:\Users\MOHSEN\source\repos\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+C:\Users\MOHSEN\source\repos\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
