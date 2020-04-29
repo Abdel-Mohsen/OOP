@@ -29,6 +29,17 @@ The previous screen shows the results of different classes and methods.
 </p>
 
 
+## Project Structure
+
+<p align="center">
+    <img src="Img/87.PNG" alt="TicTacToe"/>
+</p>
+<p>
+In those four classes
+</p>
+
+
+
 ## Prerequisites
 
 Visual Studio 2017 or higher. 
