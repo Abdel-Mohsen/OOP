@@ -46,7 +46,7 @@ namespace OOP
             Console.WriteLine("____________________________________________________________________________");
             Console.WriteLine("\n");
 
-            // you can't instantiate object from an abstract class 
+            // you can't instantiate an object from an abstract class 
             //Shape shape = new Shape();  ::: Flag Error 
 
             // base class reference variable that points to derived class object 
