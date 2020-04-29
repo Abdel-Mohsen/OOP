@@ -1,12 +1,13 @@
 # OOP
 <p>
-In this project I tried to cover some of the main concepts of the Object-oriented programming (OOP) using C#
-so I used :
+ OOP is an abbreviation of Object Oriented Programming system in which programs are considered as a collection of objects. Each object is nothing but an instance of a class. OOP is a very important topic in programming and every programmer must know how to use it in his code.
+So in this project I tried to cover some of the main concepts of the Object-Oriented Programming (OOP) using C#
+and I used :
 </p>
 <p>
  <ol>
   <li>Classes.</li>
-  <li>objects.</li>
+  <li>Objects.</li>
   <li>Encapsulation.</li>
   <li>Inheritance.</li>
   <li>Polymerphism.</li>
