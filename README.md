@@ -35,20 +35,50 @@ The previous screen shows the results of different classes and methods.
     <img src="Img/87.PNG" alt="TicTacToe"/>
 </p>
 <p>
-In those four classes
+In those four classes I used: 
+ <ol>
+  <li>Inheritance.
+    <ul>
+      <li>Base class.</li>
+      <li>Derived class.</li>
+    </ul>
+  </li>
+   <li>Polymerphism.
+  <ul>
+      <li>Method Overloading.</li>
+      <li>Method Overriding.</li>
+      <li>Method Hiding.</li>
+    </ul>
+  </li>
+  </ol> 
 </p>
 
+<p align="center">
+    <img src="Img/85.PNG" alt="TicTacToe"/>
+</p>
 
+<p>
+In those classes I used: 
+ <ul>
+  <li>Abstraction.
+    <ul>
+      <li>Abstract class.</li>
+      <li>Abstract method.</li>
+    </ul>
+  </li>
+  </ul> 
+</p>
 
-## Prerequisites
+<p align="center">
+    <img src="Img/82.PNG" alt="TicTacToe"/>
+</p>
+<p>
+In those classes I used: 
+ <ul>
+  <li>Interface.</li>
+  </ul> 
+</p>
 
-Visual Studio 2017 or higher. 
-
-
-## Installing
-
-Find the Visual Studio versions in this link : 
-<a href="https://visualstudio.microsoft.com/downloads/" target="_blank">Visual Studio Download</a>
 
 ## Code
 
@@ -75,7 +105,7 @@ Find the Visual Studio versions in this link :
       <li>Method Hiding : (using new keyword) the new modifier hides an accessible base class method.</li>
     </ul>
   </li>
-  <li>Abstract.
+  <li>Abstraction.
    <ul>
       <li>Abstract class : means that you can't instantiate an object from this class.</li>
       <li>Abstract method : means that this method can't have a body and you're forced to write an implementation everytime you inherit 
@@ -86,3 +116,16 @@ Find the Visual Studio versions in this link :
   and you only implement those methods in the derived class.</li>
 </ol> 
 <p/>
+
+
+
+## Prerequisites
+
+Visual Studio 2017 or higher. 
+
+
+## Installing
+
+Find the Visual Studio versions in this link : 
+<a href="https://visualstudio.microsoft.com/downloads/" target="_blank">Visual Studio Download</a>
+
