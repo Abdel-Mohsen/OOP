@@ -32,7 +32,7 @@ The previous screen shows the results of different classes and methods.
 ## Project Structure
 
 <p align="center">
-    <img src="Img/87.PNG" alt="TicTacToe"/>
+    <img src="Img/classes.png" alt="TicTacToe"/>
 </p>
 <p>
 In those four classes I used: 
@@ -54,7 +54,7 @@ In those four classes I used:
 </p>
 
 <p align="center">
-    <img src="Img/85.PNG" alt="TicTacToe"/>
+    <img src="Img/abstract classes.png" alt="TicTacToe"/>
 </p>
 
 <p>
@@ -70,7 +70,7 @@ In those classes I used:
 </p>
 
 <p align="center">
-    <img src="Img/82.PNG" alt="TicTacToe"/>
+    <img src="Img/interfaces.png" alt="TicTacToe"/>
 </p>
 <p>
 In those classes I used: 
